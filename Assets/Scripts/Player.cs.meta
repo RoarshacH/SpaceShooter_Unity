@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dce5e9421a44e944f8017a4a3714923e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerExplosionAnimation: {instanceID: 0}
+  - playerShield: {instanceID: 0}
+  - laserSpawn: {fileID: 7009515183187174483, guid: 723e70cddee07744ba3398d68c063921,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
